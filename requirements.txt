@@ -1,4 +1,7 @@
+ipykernel
+nbformat
+numpy
 pandas
+plotly
 streamlit
 scikit-learn
-numpy
